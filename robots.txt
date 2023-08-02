@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://dataey-ayei.github.io/sitemap.xml
